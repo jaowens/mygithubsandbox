@@ -13,7 +13,9 @@ Once the Cisco Smart Service Bureau verifies your information, they will open a 
 If you are an SNTC customer, complete these steps:
 1.	Complete the instructions described in (https://supportforums.cisco.com/blog/12600946/self-service-onboarding-register-get-access-smart-net-total-care-portal "Self-Service Onboarding").
 2.	Once you have a completed the self-service onboarding process, send an email to (mailto:SNTCSupportApiAccess@cisco.com "SNTCSupportApiAccess@cisco.com") to request access to the Cisco Support APIs. 
+
 **IMPORTANT!** You must include the CCO ID of the individual assigned as the Delegated Administrator or your request cannot be processed.
+
 **Note:** The onboarding process can take up to 48 hours after you submit the request for access to the Cisco Support APIs.
 # Accessing the Cisco Support APIs
-Once the onboarding process is complete, you can access the Cisco Support APIs using the Cisco API Console. For information on registering an application with individual Cisco Support APIs, refer to the Cisco API Console Platform Documentation.
+Once the onboarding process is complete, you can access the Cisco Support APIs using the (https://apiconsole.cisco.com/ "Cisco API Console"). For information on registering an application with individual Cisco Support APIs, refer to the Cisco API Console Platform Documentation.
